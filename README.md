@@ -6,7 +6,7 @@ This is a [web3.js](https://github.com/web3/web3.js) `4.x` plugin for interactin
 
 -   :gear: [NodeJS](https://nodejs.org/) (LTS/Fermium)
 -   :toolbox: [Yarn](https://yarnpkg.com/)
--   :computer [web3.js](https://github.com/web3/web3.js) >= `4.0.2`
+-   :computer: [web3.js](https://github.com/web3/web3.js) >= `4.0.2`
 
 ## Installation
 
