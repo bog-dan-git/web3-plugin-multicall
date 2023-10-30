@@ -1,12 +1,12 @@
 {
   "name": "web3-plugin-multicall",
-  "version": "1.0.0",
-  "description": "Template plugin to extend web3.js with additional methods",
+  "version": "0.0.1",
+  "description": "Multicall plugin to extend web3.js",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "homepage": "https://github.com/web3/web3.js-plugin-template#readme",
+  "homepage": "https://github.com/bog-dan-git/web3-plugin-multicall#readme",
   "bugs": {
-    "url": "https://github.com/web3/web3.js-plugin-template/issues"
+    "url": "https://github.com/bog-dan-git/web3-plugin-multicall/issues"
   },
   "files": [
     "lib/",
